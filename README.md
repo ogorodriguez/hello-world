@@ -8,5 +8,9 @@ This is the code added from the desktop edit.
 
 12:45 10/11/2017 - On this day I decided to open up a different branch so I can check in basic functionality.  As of the hour of the timestamp the edit has not been committed nor pulled in.
 
+12:46 10/11/2017 - I will add an excel simply for modification purposes the file has a few numbers there pulled in from the site the-numbers.com
+
+
+
 
 
